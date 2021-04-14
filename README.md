@@ -16,3 +16,7 @@
 4.高光反射效果图
 <img width="42" alt="image" src="https://user-images.githubusercontent.com/62586787/114732340-666fae00-9d7d-11eb-9d7d-ac5de3ffc4fb.png">
 <img width="36" alt="image" src="https://user-images.githubusercontent.com/62586787/114732372-6bccf880-9d7d-11eb-86ec-e176045b3a77.png">
+
+5.布林冯光照效果图
+<img width="47" alt="image" src="https://user-images.githubusercontent.com/62586787/114734685-683a7100-9d7f-11eb-8992-2e97c7381458.png">
+<img width="35" alt="image" src="https://user-images.githubusercontent.com/62586787/114734718-7092ac00-9d7f-11eb-9c4d-3c37d7227cf8.png">
