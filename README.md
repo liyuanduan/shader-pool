@@ -12,3 +12,7 @@
 3.半兰伯特效果图
 <img width="97" alt="image" src="https://user-images.githubusercontent.com/62586787/114726880-b6984180-9d78-11eb-97fc-64cc1160addd.png">
 <img width="43" alt="image" src="https://user-images.githubusercontent.com/62586787/114727028-d3cd1000-9d78-11eb-8c98-cc8e152f4875.png">
+
+4.高光反射效果图
+<img width="42" alt="image" src="https://user-images.githubusercontent.com/62586787/114732340-666fae00-9d7d-11eb-9d7d-ac5de3ffc4fb.png">
+<img width="36" alt="image" src="https://user-images.githubusercontent.com/62586787/114732372-6bccf880-9d7d-11eb-86ec-e176045b3a77.png">
