@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "dly/blinn_phong"
+Shader "dly/blinn-phong"
 {
     Properties
     {
@@ -51,7 +51,9 @@ Shader "dly/blinn_phong"
 
                 fixed3 reflectDir = normalize(reflect(-lightDir, f.WorldNormalDir));
                 fixed3 cameraDir = normalize(_WorldSpaceCameraPos.xyz - f.WorldVertexPos);
-                fixed3 specular = _LightColor0.rgb * pow( max(0, dot(reflectDir, cameraDir)), 10);
+
+                fixed3 halfDir = normalize(lightDir + cameraDir);
+                fixed3 specular = _LightColor0.rgb * pow( max(0, dot(halfDir, f.WorldNormalDir)), 10);
             
                 fixed3 color = diffuse + ambient + specular;
 
